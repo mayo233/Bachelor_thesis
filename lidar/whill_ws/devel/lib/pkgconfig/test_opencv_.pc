@@ -1,0 +1,8 @@
+prefix=/home/suzukamayo/ros_ws/lidar/whill_ws/devel
+
+Name: test_opencv_
+Description: Description of test_opencv_
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

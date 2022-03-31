@@ -1,0 +1,8 @@
+prefix=/home/suzukamayo/ros_ws/lidar/whill_ws/devel
+
+Name: cvTest
+Description: Description of cvTest
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

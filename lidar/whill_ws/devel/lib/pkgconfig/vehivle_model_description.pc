@@ -1,0 +1,8 @@
+prefix=/home/suzukamayo/ros_ws/lidar/whill_ws/devel
+
+Name: vehivle_model_description
+Description: Description of vehivle_model_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

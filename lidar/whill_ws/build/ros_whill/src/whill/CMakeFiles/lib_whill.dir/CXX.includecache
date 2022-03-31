@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/suzukamayo/ros_ws/lidar/whill_ws/src/ros_whill/src/whill/Packet.cpp
+WHILL.h
+/home/suzukamayo/ros_ws/lidar/whill_ws/src/ros_whill/src/whill/WHILL.h
+string.h
+-
+
+/home/suzukamayo/ros_ws/lidar/whill_ws/src/ros_whill/src/whill/PacketParser.cpp
+stdio.h
+/home/suzukamayo/ros_ws/lidar/whill_ws/src/ros_whill/src/whill/stdio.h
+WHILL.h
+/home/suzukamayo/ros_ws/lidar/whill_ws/src/ros_whill/src/whill/WHILL.h
+
+/home/suzukamayo/ros_ws/lidar/whill_ws/src/ros_whill/src/whill/PacketReceiver.cpp
+WHILL.h
+/home/suzukamayo/ros_ws/lidar/whill_ws/src/ros_whill/src/whill/WHILL.h
+
+/home/suzukamayo/ros_ws/lidar/whill_ws/src/ros_whill/src/whill/SpeedProfile.cpp
+WHILL.h
+/home/suzukamayo/ros_ws/lidar/whill_ws/src/ros_whill/src/whill/WHILL.h
+
+/home/suzukamayo/ros_ws/lidar/whill_ws/src/ros_whill/src/whill/WHILL.cpp
+WHILL.h
+/home/suzukamayo/ros_ws/lidar/whill_ws/src/ros_whill/src/whill/WHILL.h
+cmath
+-
+
+/home/suzukamayo/ros_ws/lidar/whill_ws/src/ros_whill/src/whill/WHILL.h
+stdint.h
+-
+vector
+-
+
+/home/suzukamayo/ros_ws/lidar/whill_ws/src/ros_whill/src/whill/whill_commands.cpp
+WHILL.h
+/home/suzukamayo/ros_ws/lidar/whill_ws/src/ros_whill/src/whill/WHILL.h
+stdio.h
+-
+

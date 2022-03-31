@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/suzukamayo/ros_ws/lidar/whill_ws/devel/setup.sh

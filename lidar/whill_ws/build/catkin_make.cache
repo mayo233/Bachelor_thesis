@@ -1,0 +1,2 @@
+image:opencv:pure_pursuit/test_mapserver:pure_pursuit/vehivle_model_description:ros_whill:rplidar_ros:whill_navigation
+-DCATKIN_DEVEL_PREFIX=/home/suzukamayo/ros_ws/lidar/whill_ws/devel -DCMAKE_INSTALL_PREFIX=/home/suzukamayo/ros_ws/lidar/whill_ws/install -G Unix Makefiles

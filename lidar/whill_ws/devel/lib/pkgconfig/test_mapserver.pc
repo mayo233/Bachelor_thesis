@@ -1,0 +1,8 @@
+prefix=/home/suzukamayo/ros_ws/lidar/whill_ws/devel
+
+Name: test_mapserver
+Description: Description of test_mapserver
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

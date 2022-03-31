@@ -1,0 +1,8 @@
+prefix=/home/suzukamayo/ros_ws/lidar/whill_ws/install
+
+Name: whill_navigation
+Description: Description of whill_navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
