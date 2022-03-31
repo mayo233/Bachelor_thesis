@@ -21,6 +21,9 @@ https://www.sice.or.jp/org/kyushu/2021/conference/program_rev1.pdf
 
 
 
-# 学んだことや疑問点などを書き込んでいる研究ノート (一部)
+# 学んだことや疑問点，計算などを書き込んでいる研究ノート (一部)
 ※　字が汚いことはご了承ください
+
+![image](https://user-images.githubusercontent.com/63102510/160971300-9024aa1f-df37-47ee-93e0-fffad7fbc04b.png)
+
 
